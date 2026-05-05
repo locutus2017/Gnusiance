@@ -1,2 +1,2 @@
 # Gnusiance
-Unoffical Slackware Spin
+Unofficial Slackware Spin
